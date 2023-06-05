@@ -12,8 +12,7 @@ Malaria dataset of 27,558 cell images with an equal number of parasitized and un
 ![1](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/16b004b3-f0be-483f-a3cc-4e62c314007b)
 
 ## Neural Network Model
-
-Include the neural network model diagram.
+![0](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/1fa66be2-3582-4030-9770-08bea019a1ae)
 
 ## DESIGN STEPS
 
@@ -175,18 +174,19 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![1](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/6542155b-384a-4d05-a187-4fa0b19a8043)
 
 ### Classification Report
+![2](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/a1583ff7-c250-40a8-b56b-af432e1a8bb8)
 
-Include Classification Report here
 
 ### Confusion Matrix
+![3](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/d31bc59a-25d8-4d63-b7a6-e624de77bc76)
 
-Include confusion matrix here
 
 ### New Sample Data Prediction
+![4](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/9bb8c751-29b4-4d27-8152-ed68deeb6506)
 
-Include your sample cell image input and output of your model.
 
 ## RESULT
+Thus, a deep neural network for Malaria infected cell recognized and analyzed the performance .
