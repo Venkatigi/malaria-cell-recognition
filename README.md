@@ -174,18 +174,19 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![1](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/6542155b-384a-4d05-a187-4fa0b19a8043)
+![11](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/1ce4ba76-51df-49e5-8568-56f07404d893)
+
 
 ### Classification Report
-![2](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/a1583ff7-c250-40a8-b56b-af432e1a8bb8)
+![22](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/03adf6a4-aaa7-4b58-8602-194eea2a27dc)
 
 
 ### Confusion Matrix
-![3](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/d31bc59a-25d8-4d63-b7a6-e624de77bc76)
+![33](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/9b699289-e884-4e4d-990e-0665e86f62c3)
 
 
 ### New Sample Data Prediction
-![4](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/9bb8c751-29b4-4d27-8152-ed68deeb6506)
+![44](https://github.com/Venkatigi/malaria-cell-recognition/assets/94154252/add4e914-61dd-461a-ad86-c9ee10f33e30)
 
 
 ## RESULT
